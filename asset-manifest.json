@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/indianinterest/static/css/main.d225f59f.css",
+    "main.js": "/indianinterest/static/js/main.8e9e6ced.js",
+    "static/js/453.cc799dce.chunk.js": "/indianinterest/static/js/453.cc799dce.chunk.js",
+    "static/media/logo.svg": "/indianinterest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/indianinterest/index.html",
+    "main.d225f59f.css.map": "/indianinterest/static/css/main.d225f59f.css.map",
+    "main.8e9e6ced.js.map": "/indianinterest/static/js/main.8e9e6ced.js.map",
+    "453.cc799dce.chunk.js.map": "/indianinterest/static/js/453.cc799dce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d225f59f.css",
+    "static/js/main.8e9e6ced.js"
+  ]
+}
